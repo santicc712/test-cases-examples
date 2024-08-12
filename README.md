@@ -1,2 +1,2 @@
 # testcase-examples
-[Тест кейсы.pdf](https://github.com/user-attachments/files/16573840/default.pdf)
+[Тест кейсы.pdf](https://drive.google.com/file/d/17tScog9qYLyin6DGCflbtQYrJPW5gZ4y/view?usp=sharing)
